@@ -1,0 +1,17 @@
+body{
+    background-image:url('../images/gec.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+}
+.p1{
+    background-color:aqua;
+}
+img{
+    padding:20px;
+    float:inline-end;
+    border:10px solid white;
+}
+.mytitle{
+    background-color:blue;
+}

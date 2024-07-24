@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+}
+.row{
+  margin-top:10px;
+  margin-left:10px;
+  margin-right:5px;
+}
+.img
+{
+  width:90%;
+  border:5px solid white;
+  outline-style:solid;
+  outline-color:red;
+  outline-width:5px;
+}
+.row .col1,.row .col2
+{
+    float:left;
+    width:50%;
+}
+.mb3{
+  margin-bottom:10px;
+}
+.mb4
+{
+  text-align:center;
+}
+.form-control
+{
+  width:100%;
+  border-radius:5px;
+  font-size:20px;
+}
+.alert
+{
+  padding:10px;
+  background-color:rgb(18, 99, 239);
+  margin-bottom:5px;
+  border-radius:3px;
+  text-align:center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn
+{
+  border-radius:2px;
+  padding:6px;
+  background-color:blueviolet;
+  color:black;
+}
+.btn-primary
+{
+  background-color:aqua;
+  color:rgb(21, 17, 17);
+}
+.btn-danger
+{
+  background-color:red;
+  color:white;
+}
